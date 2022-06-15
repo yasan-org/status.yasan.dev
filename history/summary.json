@@ -4,17 +4,19 @@
     "url": "https://www.yasan.dev",
     "icon": "https://yasan.dev/Upptime/toronto-server.png",
     "slug": "toronto-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 155,
-    "timeWeek": 192,
-    "timeMonth": 180,
-    "timeYear": 188,
-    "dailyMinutesDown": {}
+    "time": 187,
+    "timeDay": 133,
+    "timeWeek": 183,
+    "timeMonth": 178,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   }
 ]
